@@ -1,0 +1,2 @@
+name, mass, diameter, escapeVelocity, revolutionPeriod, meanSurfaceTemp
+Pluto, 1.29e22, 2300, 1100, 90555.26, 37

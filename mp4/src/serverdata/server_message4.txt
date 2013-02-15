@@ -1,0 +1,15 @@
+Message Received at: Sun Jul 22, 2012 15:46:59
+Total Encryped Message Size: 44 bytes
+Total Decryped Message Size: 24 bytes
+------------------------------------------------------------
+DECRYPTED MESSAGE CONTENT
+------------------------------------------------------------
+
+This is a short message!
+
+
+------------------------------------------------------------
+ENCRYPTED MESSAGE CONTENT
+------------------------------------------------------------
+
+g0uVyBSxWVe3jqdQ6O0kq4b6e4dI3Vzec3CrWWPaz3U=

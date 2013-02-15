@@ -1,0 +1,15 @@
+Message Received at: Sun Jul 22, 2012 15:46:59
+Total Encryped Message Size: 44 bytes
+Total Decryped Message Size: 7 bytes
+------------------------------------------------------------
+DECRYPTED MESSAGE CONTENT
+------------------------------------------------------------
+
+Python!
+
+
+------------------------------------------------------------
+ENCRYPTED MESSAGE CONTENT
+------------------------------------------------------------
+
+arfmqaTucCNa4JVQscqRrLMFSXAh67xYTi2QRKQStQs=

@@ -1,0 +1,2 @@
+name, mass, diameter, escapeVelocity, revolutionPeriod, meanSurfaceTemp
+Mercury, 3.3e23, 4879.4, 4300, 87.97, 452

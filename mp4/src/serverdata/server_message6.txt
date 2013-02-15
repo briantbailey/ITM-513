@@ -1,0 +1,19 @@
+Message Received at: Sun Jul 22, 2012 15:46:59
+Total Encryped Message Size: 216 bytes
+Total Decryped Message Size: 130 bytes
+------------------------------------------------------------
+DECRYPTED MESSAGE CONTENT
+------------------------------------------------------------
+
+abcdefghijklmnopqrstuvwxyz
+1234567890
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit posuere.
+
+
+------------------------------------------------------------
+ENCRYPTED MESSAGE CONTENT
+------------------------------------------------------------
+
+Ge1UZAny/ia6zN5n3TPEB2O42VT9Om08zCGdj66xPkN2gD8Bbq3QDJDq+F3nDfo9WZ7/ftcUQxbmB/Ha8+prFEO6R3pMnek+4s/BYYky2Rp8s5dU5CJ3PIQrnpilnlYoXrwSJVeIpCur180yzi7fFWC+x1D1MCcn0TKenqm3L0wyx3lIJuaaQdyltgy3XqhoDcmpJ49PGUu6WOX01MxyRw==

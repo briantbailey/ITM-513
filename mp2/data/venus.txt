@@ -1,0 +1,2 @@
+name, mass, diameter, escapeVelocity, revolutionPeriod, meanSurfaceTemp
+Venus, 4.87e24, 12104, 10400, 224.7, 726

@@ -1,0 +1,233 @@
+(lp0
+(idomain.Task
+Task
+p1
+(dp2
+S'priority'
+p3
+I0
+sS'completed'
+p4
+S''
+p5
+sS'desc'
+p6
+S'ITM 513 - MP3'
+p7
+sS'due'
+p8
+S'7-15-2012'
+p9
+sS'title'
+p10
+S'MP3'
+p11
+sba(idomain.Task
+Task
+p12
+(dp13
+g3
+I0
+sg4
+g5
+sg6
+S'Backup Primary Computer Hard Drive'
+p14
+sg8
+S'7-25-2012'
+p15
+sg10
+S'Backup HD'
+p16
+sba(idomain.Task
+Task
+p17
+(dp18
+g3
+I0
+sg4
+g5
+sg6
+S'pay amex credit card bill'
+p19
+sg8
+S'7-20-2012'
+p20
+sg10
+S'Pay AMEX'
+p21
+sba(idomain.Task
+Task
+p22
+(dp23
+g3
+I0
+sg4
+S'7-14-2012'
+p24
+sg6
+S'Bill Green Dolphin for LED Job'
+p25
+sg8
+S'7-14-2012'
+p26
+sg10
+S'Bill Green Dolphin'
+p27
+sba(idomain.Task
+Task
+p28
+(dp29
+g3
+I1
+sg4
+S'7-13-2012'
+p30
+sg6
+S'wire LED lighting wall'
+p31
+sg8
+S'7-13-2012'
+p32
+sg10
+S'LED Wall'
+p33
+sba(idomain.Task
+Task
+p34
+(dp35
+g3
+I1
+sg4
+S'7-14-2012'
+p36
+sg6
+S'Wash Jeans'
+p37
+sg8
+S'7-14-2012'
+p38
+sg10
+S'Laundry - Jeans'
+p39
+sba(idomain.Task
+Task
+p40
+(dp41
+g3
+I1
+sg4
+g5
+sg6
+S'ITM 513 Final Project'
+p42
+sg8
+S'7-29-2012'
+p43
+sg10
+S'Final Project'
+p44
+sba(idomain.Task
+Task
+p45
+(dp46
+g3
+I1
+sg4
+g5
+sg6
+S'New Task Description EDITED'
+p47
+sg8
+S'7-26-2012'
+p48
+sg10
+S'New Medium Task EDITED'
+p49
+sba(idomain.Task
+Task
+p50
+(dp51
+g3
+I2
+sg4
+g5
+sg6
+S'Backup custom music'
+p52
+sg8
+S'8-1-2012'
+p53
+sg10
+S'Copy Music'
+p54
+sba(idomain.Task
+Task
+p55
+(dp56
+g3
+I2
+sg4
+g5
+sg6
+S'clean out left garage spot'
+p57
+sg8
+S'7-18-2012'
+p58
+sg10
+S'Clean Garage'
+p59
+sba(idomain.Task
+Task
+p60
+(dp61
+g3
+I2
+sg4
+g5
+sg6
+S'Wash Sox'
+p62
+sg8
+S'7-23-2012'
+p63
+sg10
+S'Laundry - sox'
+p64
+sba(idomain.Task
+Task
+p65
+(dp66
+g3
+I2
+sg4
+g5
+sg6
+S'Clean all papers off desks in computer room'
+p67
+sg8
+S'8-1-2012'
+p68
+sg10
+S'Clean Office'
+p69
+sba(idomain.Task
+Task
+p70
+(dp71
+g3
+I2
+sg4
+S'7-11-2012'
+p72
+sg6
+S'Completed Low Priortiy Task'
+p73
+sg8
+S'7-10-2012'
+p74
+sg10
+S'Completed Low Task'
+p75
+sba.

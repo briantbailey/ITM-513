@@ -1,0 +1,4 @@
+Brian T. Bailey
+ITM 513 - MP4
+
+Objective: Develop a python program with network communication over sockets.

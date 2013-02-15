@@ -1,0 +1,2 @@
+name, mass, diameter, escapeVelocity, revolutionPeriod, meanSurfaceTemp
+Neptune, 1.02e26, 49528, 23300, 60190, 48

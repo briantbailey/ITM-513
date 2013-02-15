@@ -1,0 +1,2 @@
+name, mass, diameter, escapeVelocity, revolutionPeriod, meanSurfaceTemp
+Jupiter, 1.90e27, 142800, 59500, 4331.98, 120

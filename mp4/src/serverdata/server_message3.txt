@@ -1,0 +1,18 @@
+Message Received at: Sun Jul 22, 2012 15:46:59
+Total Encryped Message Size: 172 bytes
+Total Decryped Message Size: 107 bytes
+------------------------------------------------------------
+DECRYPTED MESSAGE CONTENT
+------------------------------------------------------------
+
+Brian T. Bailey
+ITM 513 - MP4
+
+Objective: Develop a python program with network communication over sockets.
+
+
+------------------------------------------------------------
+ENCRYPTED MESSAGE CONTENT
+------------------------------------------------------------
+
+026oEyxwaZZFW2ysgDun0y1KD5NTVq4Wx89xDXr+8r7uA81VDB0n1A0cJOmAF9PqSF8PiV9zzAyM7TgXePLqnuoLgkkTVD3aBgEz7M0bnPkHWBiQTUOJWMnzJQpst+2diXG3MmkoXK5wfUiMtWPmjzImf+ovGZ9CjPAyDGi38pk=

@@ -1,0 +1,2 @@
+name, mass, diameter, escapeVelocity, revolutionPeriod, meanSurfaceTemp
+Saturn, 5.69e26, 120660, 35600, 10760.56, 88

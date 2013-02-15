@@ -1,0 +1,2 @@
+name, mass, diameter, escapeVelocity, revolutionPeriod, meanSurfaceTemp
+Mars, 6.42e23, 6787, 5000, 686.98, 310

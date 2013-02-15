@@ -1,0 +1,2 @@
+name, mass, diameter, escapeVelocity, revolutionPeriod, meanSurfaceTemp
+Uranus, 8.68e25, 51118, 21300, 30685, 59

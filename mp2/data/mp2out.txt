@@ -1,0 +1,156 @@
+ITM 513 - MP2
+Brian T. Bailey
+
+Planet Attributes
+-----------------------------------
+Planet: Mercury
+-----------------------------------
+Mass: 3.3e+23 kg
+Diameter: 4879.4 km
+Escape Velocity: 4300.0 m/s
+Revolution Period: 87.97 Earth Days
+Mean Surface Temperature: 452.0 K
+
+-----------------------------------
+Planet: Neptune
+-----------------------------------
+Mass: 1.02e+26 kg
+Diameter: 49528.0 km
+Escape Velocity: 23300.0 m/s
+Revolution Period: 60190.0 Earth Days
+Mean Surface Temperature: 48.0 K
+
+-----------------------------------
+Planet: Pluto
+-----------------------------------
+Mass: 1.29e+22 kg
+Diameter: 2300.0 km
+Escape Velocity: 1100.0 m/s
+Revolution Period: 90555.26 Earth Days
+Mean Surface Temperature: 37.0 K
+
+-----------------------------------
+Planet: Jupiter
+-----------------------------------
+Mass: 1.9e+27 kg
+Diameter: 142800.0 km
+Escape Velocity: 59500.0 m/s
+Revolution Period: 4331.98 Earth Days
+Mean Surface Temperature: 120.0 K
+
+-----------------------------------
+Planet: Uranus
+-----------------------------------
+Mass: 8.68e+25 kg
+Diameter: 51118.0 km
+Escape Velocity: 21300.0 m/s
+Revolution Period: 30685.0 Earth Days
+Mean Surface Temperature: 59.0 K
+
+-----------------------------------
+Planet: Mars
+-----------------------------------
+Mass: 6.42e+23 kg
+Diameter: 6787.0 km
+Escape Velocity: 5000.0 m/s
+Revolution Period: 686.98 Earth Days
+Mean Surface Temperature: 310.0 K
+
+-----------------------------------
+Planet: Earth
+-----------------------------------
+Mass: 5.98e+24 kg
+Diameter: 12756.0 km
+Escape Velocity: 11200.0 m/s
+Revolution Period: 365.26 Earth Days
+Mean Surface Temperature: 281.0 K
+
+-----------------------------------
+Planet: Venus
+-----------------------------------
+Mass: 4.87e+24 kg
+Diameter: 12104.0 km
+Escape Velocity: 10400.0 m/s
+Revolution Period: 224.7 Earth Days
+Mean Surface Temperature: 726.0 K
+
+-----------------------------------
+Planet: Saturn
+-----------------------------------
+Mass: 5.69e+26 kg
+Diameter: 120660.0 km
+Escape Velocity: 35600.0 m/s
+Revolution Period: 10760.56 Earth Days
+Mean Surface Temperature: 88.0 K
+
+
+Planet Names Sorted by Attribute
+-----------------------------------
+Planets Sorted By Mass (Ascending)
+-----------------------------------
+Pluto
+Mercury
+Mars
+Venus
+Earth
+Uranus
+Neptune
+Saturn
+Jupiter
+
+-----------------------------------
+Planets Sorted By Diameter (Ascending)
+-----------------------------------
+Pluto
+Mercury
+Mars
+Venus
+Earth
+Neptune
+Uranus
+Saturn
+Jupiter
+
+-----------------------------------
+Planets Sorted By Escape Velocity (Ascending)
+-----------------------------------
+Pluto
+Mercury
+Mars
+Venus
+Earth
+Uranus
+Neptune
+Saturn
+Jupiter
+
+-----------------------------------
+Planets Sorted By Revolution Period (Ascending)
+-----------------------------------
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
+
+-----------------------------------
+Planets Sorted By Mean Surface Temp (Ascending)
+-----------------------------------
+Pluto
+Neptune
+Uranus
+Saturn
+Jupiter
+Earth
+Mars
+Mercury
+Venus
+
+
+SolarSystem Dictionary Hash
+-----------------------------------
+{'Mercury': <Mercury Planet Instance at 0x101ae4cf8>, 'Neptune': <Neptune Planet Instance at 0x101ae4ef0>, 'Pluto': <Pluto Planet Instance at 0x101ae4f38>, 'Jupiter': <Jupiter Planet Instance at 0x101ae4e18>, 'Uranus': <Uranus Planet Instance at 0x101ae4ea8>, 'Mars': <Mars Planet Instance at 0x101ae4dd0>, 'Earth': <Earth Planet Instance at 0x101ae4d88>, 'Venus': <Venus Planet Instance at 0x101ae4d40>, 'Saturn': <Saturn Planet Instance at 0x101ae4e60>}
